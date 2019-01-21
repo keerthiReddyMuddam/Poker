@@ -1,0 +1,6 @@
+c:\users\keerthi\documents\visual studio 2015\Projects\Poker\Poker\bin\Debug\Poker.exe.config
+c:\Users\keerthi\documents\visual studio 2015\Projects\Poker\Poker\bin\Debug\Poker.exe
+c:\Users\keerthi\documents\visual studio 2015\Projects\Poker\Poker\bin\Debug\Poker.pdb
+c:\Users\keerthi\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+c:\Users\keerthi\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.exe
+c:\Users\keerthi\documents\visual studio 2015\Projects\Poker\Poker\obj\Debug\Poker.pdb
